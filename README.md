@@ -19,7 +19,7 @@ This project is a Power BI dashboard that analyzes sales performance, revenue tr
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Page1](image/1.png)
 
 ## 📁 Dataset
 
@@ -29,4 +29,4 @@ The dataset used in this project is included in the repository.
 
 * Identified top-performing regions and products
 * Analyzed sales trends over time
-* Highlighted areas for business improvement
+
